@@ -2,3 +2,7 @@ some text
 some more text
 develop 1
 develop 2
+feature/test 1
+feature/test 2
+feature/test 3
+feature/test 4
