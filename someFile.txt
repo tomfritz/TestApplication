@@ -2,3 +2,4 @@ some text
 some more text
 feature/test 1
 feature/test 2
+feature/test 3
